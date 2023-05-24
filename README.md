@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="google.com" target="_blank"><img src="[https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상](https://img.shields.io/badge/pastic-doutori31%40gmail.com-orange)"/></a>
+<a href="google.com" target="_blank"><img src="[https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상](https://img.shields.io/badge/pastic-doutori31%40gmail.com-orange)"></a>
