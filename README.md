@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="google.com" target="_blank"><img src="https://img.shields.io/badge/gmail-doutori31%40gmail.com-orange?style=for-the-badge&logo=gmail"></a><br>
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
+Programming <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
 
