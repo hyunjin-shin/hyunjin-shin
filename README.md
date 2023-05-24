@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/doutori31@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
 
+***
+
 <p>Tech Stack</p>
 <div align="left">
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
