@@ -21,4 +21,5 @@ Programming :
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&show_icons=true&theme=radical)
 
