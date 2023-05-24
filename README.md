@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white">
 </p>
 
-<p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&show_icons=true&theme=radical)
-</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin-shin&layout=compact)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
