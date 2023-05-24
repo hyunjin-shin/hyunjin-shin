@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&show_icons=true&theme=radical)&bnsp
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&show_icons=true&theme=radical)
 </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin-shin&layout=compact)
 
