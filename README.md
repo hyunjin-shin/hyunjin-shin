@@ -1,6 +1,11 @@
 ### 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjin-shin&count_bg=%233D63C8&title_bg=%2386DDFF&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
+<p aligh = "right">
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjin-shin&count_bg=%233D63C8&title_bg=%2386DDFF&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</p> 
+
+  <!--
 **hyunjin-shin/hyunjin-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
