@@ -1,6 +1,5 @@
 ### Hello👋
 
-<span align="left">Git</span>
 
 <div align="right" display="float">
   
