@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/doutori31@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
 Programming : 
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"></a>&nbsp
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&show_icons=true&theme=radical)
 
