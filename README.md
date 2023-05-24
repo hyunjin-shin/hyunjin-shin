@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://simpleicons.org/?q=mail
-<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/pastic-doutori31%40gmail.com-orange"></a>
+
+<a href="google.com" target="_blank"><img src="https://img.shields.io/gmail/pastic-doutori31%40gmail.com-orange"></a>
