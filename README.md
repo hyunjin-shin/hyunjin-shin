@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="right" display="float">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&theme=tokyonight&show_icons=true)]
+  [![Anurag's GitHub stats]](https://github-readme-stats.vercel.app/api?username=hyunjin-shin&theme=tokyonight&show_icons=true)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin-shin&layout=compact&theme=tokyonight)]
 
